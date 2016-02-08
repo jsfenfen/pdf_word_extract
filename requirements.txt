@@ -1,0 +1,4 @@
+# Rtree requires the spatialiblibrary -- see here: http://toblerity.org/rtree/install.html#nix -- except did it with v. 1.8.5. 
+Rtree
+# probably numpy
+# and maybe pandas? 
